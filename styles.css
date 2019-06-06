@@ -8,5 +8,6 @@ h3 {
 
 .Brand {
     border-top: 1px;
-    border-color: black"
+    border-top-style: solid;
+    border-color: black;
 }
